@@ -128,7 +128,7 @@ const Header: React.FC<HeaderProps> = ({ onLoginClick }) => {
               toggle={() => toggleDropdown('features')}
               items={[
                 { href: '/AssetTracking', text: 'Asset Tracking' },
-                { href: '#', text: 'Fraud Detection' },
+                { href: '/fraud', text: 'Fraud Detection' },
                 { href: '#', text: 'Network Mapping' },
                 { href: '#', text: 'AI-Powered Auditing' },
                 { href: '#', text: 'Recovery Mechanisms' },
