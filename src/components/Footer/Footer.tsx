@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Phone, Mail, MapPin } from 'lucide-react';
 
 import Logo from '../../images/Coat_of_arms_of_Ghana.svg.png';

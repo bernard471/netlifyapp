@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { AlertTriangle, ArrowRight, Clock } from 'lucide-react';
 
 const cases = [

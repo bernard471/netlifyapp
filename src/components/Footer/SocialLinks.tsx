@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Facebook, Twitter, Linkedin, Youtube, Instagram } from 'lucide-react';
 
 const SocialLinks = () => {

@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { PieChart, Pie, Cell, ResponsiveContainer, Legend } from 'recharts';
 import { ArrowUpRight } from 'lucide-react';
 

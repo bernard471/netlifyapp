@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Clock, CheckCircle2, AlertTriangle, MoreVertical } from 'lucide-react';
 
 const projects = [
