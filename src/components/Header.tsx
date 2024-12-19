@@ -129,7 +129,7 @@ const Header: React.FC<HeaderProps> = ({ onLoginClick }) => {
               items={[
                 { href: '/AssetTracking', text: 'Asset Tracking' },
                 { href: '/fraud', text: 'Fraud Detection' },
-                { href: '#', text: 'Network Mapping' },
+                { href: '/fraud', text: 'Network Mapping' },
                 { href: '#', text: 'AI-Powered Auditing' },
                 { href: '#', text: 'Recovery Mechanisms' },
               ]}
